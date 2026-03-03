@@ -8,7 +8,7 @@
 
 maven.buildMavenPackage rec {
   pname = "ktfmt";
-  version = "0.51";
+  version = "0.61";
 
   src = fetchFromGitHub {
     owner = "facebook";
